@@ -1,0 +1,27 @@
+.padre {
+    width: 500px;
+    width: 500px;
+    border: 1px solid black;
+    display: flex;
+}
+
+.titulo{
+    margin-top: 5px;
+}
+
+.texto{
+    margin-top: 10px;
+    width: 400px;
+    height: 100px;
+
+    justify-content: start;
+    align-items: start;
+}
+
+.boton{
+    width: 50px;
+    height: 25px;
+
+    border: 1px solid black;
+    border-radius: 5px;
+}
